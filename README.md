@@ -11,11 +11,14 @@
   [Marshmallow challenge!](./marshmallow-challenge.md)
 
 - 11:00 - 12:00 <br> 
-
+  [Mind teaser - Search and Define](./mind-teaser.md)
   
 — BREAK —
 
-- 13:00 - 15:30 <br> 
+- 13:00 - 13:30 <br> 
+  [Where does making products go wrong](https://docs.google.com/presentation/d/1URTHmtKcxXUz2figOyczww41j8a1JhA5P18tpN-6CTU/edit#slide=id.g1d8ce2a6ed_0_89)
+  
+- 13:30 - 15:30 <br> Map problems, projects ideas.
 
 - 15:30 - 16:30 <br> 
   Amal learning English conversation sessions
