@@ -7,16 +7,11 @@
   - Learning outcomes.
   - Sharing thoughts out loud/How do you envision this 3-week project phase would look like?
   
-- 10:00 - 12:00 <br> 
-  Marshmallow challenge!
+- 10:00 - 11:00 <br> 
+  [Marshmallow challenge!](./marshmallow-challenge.md)
 
-- 10:00 - 12:00 <br> 
+- 11:00 - 12:00 <br> 
 
-- 10:00 - 12:00 <br> 
-
-- 10:00 - 12:00 <br> 
-
-- 10:00 - 12:00 <br> 
   
 — BREAK —
 
@@ -72,8 +67,10 @@
 
 — BREAK —
 
-- 13:00 - 17:00 <br>
+- 13:00 - 16:00 <br>
   Respond to feedback / improve prototype
+- 16:00 - 17:00 <br>
+  Prototype presentation 
 
 ### Day 5 
 
