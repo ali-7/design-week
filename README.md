@@ -41,7 +41,7 @@
 - 13:00 - 13:30 <br> 
   [Finding resources for design projects](./pdf-resources/design-resources.pdf)
 
-- 11:00 - 12:00 <br>
+- 13:30 - 15:30 <br>
   Work on prototypes
 
 - 15:30 - 16:30 <br> 
@@ -80,10 +80,11 @@
 - 09:00 - 10:00 <br>
   [Agile presentation](https://docs.google.com/presentation/d/1W0X8XRzGQQgGhiUb5uR7Kl0yDux-5Qs5rwc32r6oHzY/edit?usp=sharing)
   
-- 10:00 - 12:00 [Sprint planning](https://www.notion.so/Sprint-planning-Gitflow-0335e9a797e24a75af265166c402d9b6)
+- 10:00 - 12:00 <br>
+  [Sprint planning](https://www.notion.so/Sprint-planning-Gitflow-0335e9a797e24a75af265166c402d9b6)
 
 — BREAK —
 
-- 13:00 - 15:00 <br>
+- 13:00 - 17:00 <br>
   Sprint planning
 
